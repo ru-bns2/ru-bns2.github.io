@@ -6,10 +6,10 @@
 На самой странице используються такие код:
 ```html
 <script language="JavaScript">
-window.location.href = "https://vk.com/ru.bns2"
+window.location.href = "https://vk.link/ru.bns2"
 </script>
 ```
 И таккже 
 ```html
-<meta http-equiv="refresh" content="0;URL=https://vk.com/ru.bns2" />
+<meta http-equiv="refresh" content="0;URL=https://vk.link/ru.bns2" />
 ```
